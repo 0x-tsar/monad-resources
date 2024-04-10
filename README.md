@@ -20,6 +20,14 @@ Curated content to keep you informed about Monad.
 - [The Future of MONAD?!?! w/ Intern from Monad](https://www.youtube.com/watch?v=ZojEcUnrfp0)
 - [The Pipeline - Episode 14 With Pyth](https://www.youtube.com/watch?v=UmznS8RrLPE)
 
+## Articles and Blogs
+
+- [Monad vs Rollups](https://monadlabs.substack.com/p/monad-vs-rollups) by KEONE
+- [Monad: A Paradigm Shift in Blockchain Scalability and Interoperability](https://medium.com/@imranelahi/monad-a-paradigm-shift-in-blockchain-scalability-and-interoperability-38c12c841a32) by Imran Elahi
+
+## Ecosystem
+- [Everything in Monad](https://docs.google.com/spreadsheets/d/1BkBAHhwbHMK7spTrBa9kmgWeBqKPJOTR6Ebl6eENOwQ/edit#gid=0)
+
 ## Official Links
 - [Documentation](https://docs.monad.xyz/)
 - [Website](https://www.monad.xyz/)
